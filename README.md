@@ -102,3 +102,5 @@ If you want to let me know you're finding it useful, please consider giving it a
 
 If you love my work and want to say thank you, you can help me out for a beer 🍻️
 [via PayPal](https://paypal.me/ChristianScheb).
+
+check ci
